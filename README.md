@@ -39,6 +39,7 @@ An interactive dashboard solution was required to support data-driven healthcare
 ---
 
 Project Structure
+
 Hospital-Analytics-Dashboard/
 │
 ├── Dashboard/
@@ -62,3 +63,4 @@ Hospital-Analytics-Dashboard/
 The Hospital Analytics Dashboard provides a structured and data-driven approach to monitor patient inflow, evaluate hospital workload, and analyze treatment cost performance.
 
 By combining Python-based data validation with Power BI visualization and DAX calculations, this project demonstrates how business intelligence tools can improve healthcare operational efficiency.
+
